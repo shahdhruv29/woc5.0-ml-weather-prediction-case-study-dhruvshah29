@@ -8,3 +8,7 @@ Woc5.0 Weather Prediction Project
 3) Basics of Visualisation using Matplotlib
 
 4) Implemented an ML model using the weather dataset.
+
+5) Trained the same dataset on different models such as ANN, K-Nearest Neighbours, Decision Trees.
+
+6) Deployed the model using streamlit.
