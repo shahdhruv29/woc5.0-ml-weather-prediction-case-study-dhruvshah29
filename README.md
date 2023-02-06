@@ -16,8 +16,8 @@ Woc5.0 Weather Prediction Project
 ## Running the app.
 Here are some examples where our model will predict the weather based on the input we give.
 ### 1. Sunny Weather
-![Sun pred](sunny_pred.jgp)
+![Sun pred](sunny_pred.png)
 ### 2. Rainy Weather
-![Rainy pred](rainy_pred.jgp)
+![Rainy pred](rainy_pred.png)
 ### 3. Snowy Weather
-![Snow pred](snow_pred.jgp)
+![Snow pred](snow_pred.png)
